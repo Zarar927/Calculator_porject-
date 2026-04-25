@@ -103,27 +103,6 @@ Output: 2 + 2 = 4
 
 ---
 
-## 🔥 Future Improvements
-
-* Add GUI (Tkinter / Web)
-* Add more operations (power, modulus)
-* Improve UI/UX
-* Add history feature
-
----
-
-## 🤝 Contribution
-
-Feel free to fork this repo and improve it 🚀
-
----
-
-## 📜 License
-
-This project is open-source and free to use.
-
----
-
 # ⭐ If you like this project, give it a star!
 
 ---
